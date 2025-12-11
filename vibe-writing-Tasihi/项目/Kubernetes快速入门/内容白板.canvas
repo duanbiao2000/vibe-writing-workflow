@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "node1",
+      "type": "file",
+      "file": "输出卡片/01-01-为什么Pod是Kubernetes的最小单位.md",
+      "x": 100,
+      "y": 100,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node2",
+      "type": "file",
+      "file": "输出卡片/01-02-Deployment如何让应用永不宕机.md",
+      "x": 100,
+      "y": 600,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node3",
+      "type": "file",
+      "file": "输出卡片/01-03-Service如何解决Pod IP变化问题.md",
+      "x": 100,
+      "y": 1100,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node4",
+      "type": "file",
+      "file": "输出卡片/03-02-WSL2环境下的Minikube安装指南.md",
+      "x": 100,
+      "y": 1600,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node5",
+      "type": "file",
+      "file": "输出卡片/01-04-核心概念如何协同工作.md",
+      "x": 600,
+      "y": 600,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node6",
+      "type": "file",
+      "file": "输出卡片/05-01-Web应用部署的基本流程.md",
+      "x": 600,
+      "y": 1100,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node7",
+      "type": "file",
+      "file": "输出卡片/07-01-ConfigMap的使用场景和最佳实践.md",
+      "x": 100,
+      "y": 2100,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "node8",
+      "type": "file",
+      "file": "输出卡片/07-02-Secret的安全管理策略.md",
+      "x": 600,
+      "y": 2100,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge1",
+      "fromNode": "node1",
+      "fromSide": "bottom",
+      "toNode": "node2",
+      "toSide": "top",
+      "label": "「Pod需要控制器管理」",
+      "color": "2"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "node2",
+      "fromSide": "bottom",
+      "toNode": "node3",
+      "toSide": "top",
+      "label": "「Deployment管理Pod，Service连接Pod」",
+      "color": "2"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "node3",
+      "fromSide": "bottom",
+      "toNode": "node4",
+      "toSide": "top",
+      "label": "「在环境中实践核心概念」",
+      "color": "2"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "node1",
+      "fromSide": "right",
+      "toNode": "node5",
+      "toSide": "left",
+      "label": "「Pod是基础组件」",
+      "color": "2"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "node2",
+      "fromSide": "right",
+      "toNode": "node5",
+      "toSide": "left",
+      "label": "「Deployment管理Pod」",
+      "color": "2"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "node3",
+      "fromSide": "right",
+      "toNode": "node5",
+      "toSide": "left",
+      "label": "「Service连接Pod」",
+      "color": "2"
+    },
+    {
+      "id": "edge7",
+      "fromNode": "node5",
+      "fromSide": "bottom",
+      "toNode": "node6",
+      "toSide": "top",
+      "label": "「综合运用核心概念」",
+      "color": "2"
+    },
+    {
+      "id": "edge8",
+      "fromNode": "node2",
+      "fromSide": "right",
+      "toNode": "node6",
+      "toSide": "left",
+      "label": "「使用Deployment部署应用」",
+      "color": "2"
+    },
+    {
+      "id": "edge9",
+      "fromNode": "node3",
+      "fromSide": "right",
+      "toNode": "node6",
+      "toSide": "left",
+      "label": "「使用Service暴露应用」",
+      "color": "2"
+    },
+    {
+      "id": "edge10",
+      "fromNode": "node6",
+      "fromSide": "bottom",
+      "toNode": "node7",
+      "toSide": "top",
+      "label": "「配置管理基础知识」",
+      "color": "2"
+    },
+    {
+      "id": "edge11",
+      "fromNode": "node7",
+      "fromSide": "right",
+      "toNode": "node8",
+      "toSide": "left",
+      "label": "「敏感信息安全管理」",
+      "color": "2"
+    }
+  ]
+}
