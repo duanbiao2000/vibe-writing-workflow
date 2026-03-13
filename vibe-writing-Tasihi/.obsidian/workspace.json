@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "388893bb1e0e58ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0efe9ae1515cc38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cedd8c72d54065ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/Claude和GPT的区别/初始文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "初始文档"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57e0f2acc10c2671",
+    "type": "split",
+    "children": [
+      {
+        "id": "778715fc3c658664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a99fd22d2024cd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b326050077f5dc26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdd828bdd4aaf055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd7370b9f76be3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2fb2a3f7b669812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad0ab48b4b2260a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/05-工作方式与心态转变.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05-工作方式与心态转变"
+            }
+          },
+          {
+            "id": "1b85eb247024a675",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/05-工作方式与心态转变.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05-工作方式与心态转变"
+            }
+          },
+          {
+            "id": "53c90c67d3c379a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c010151217e4de7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cff703811aafaba7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/05-工作方式与心态转变.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05-工作方式与心态转变"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cedd8c72d54065ed",
+  "lastOpenFiles": [
+    "项目/Nvim与Shell理解AI Agent/内容白板.canvas",
+    "项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/02-AI Agent的特殊性.md.tmp.19704.1773324188557",
+    "项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/02-AI Agent的特殊性.md.tmp.19704.1773323287653",
+    "项目/Claude和GPT的区别/内容白板.canvas",
+    "项目/Kubernetes快速入门/内容白板.canvas",
+    "项目/Nvim与Shell理解AI Agent/最终成稿-Nvim与Shell理解AI Agent.md"
+  ]
+}
