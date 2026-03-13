@@ -1,0 +1,26 @@
+{
+	"type":"mb.canvas",
+	"nodes":[
+		{"id":"node1","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/01-悬念与钥匙.md","x":100,"y":100,"width":400,"height":400,"color":"2"},
+		{"id":"node2","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/02-深层原理.md","x":880,"y":200,"width":400,"height":400,"color":"2"},
+		{"id":"node3","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/03-范式转变的本质.md","x":2240,"y":100,"width":400,"height":400,"color":"2"},
+		{"id":"node4","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/04-三个新问题.md","x":3200,"y":100,"width":400,"height":400,"color":"2"},
+		{"id":"node5","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/01-范式转变/05-工作方式与心态转变.md","x":4480,"y":100,"width":400,"height":400,"color":"2"},
+		{"id":"node6","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/01-从范式转变到职业影响.md","x":-140,"y":1280,"width":400,"height":400,"color":"2"},
+		{"id":"node7","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/02-AI Agent的特殊性.md","x":1000,"y":1280,"width":400,"height":400,"color":"2"},
+		{"id":"node8","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/03-程序员会变成什么.md","x":2240,"y":1280,"width":400,"height":400,"color":"2"},
+		{"id":"node9","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/04-自然语言会成为下一代编程语言吗.md","x":3400,"y":1280,"width":400,"height":400,"color":"2"},
+		{"id":"node10","type":"file","file":"项目/Nvim与Shell理解AI Agent/输出卡片/02-程序员的进化/05-理论转化为行动.md","x":4880,"y":1680,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"edge1","type":"arrow","fromNode":"node1","fromSide":"bottom","toNode":"node2","toSide":"top","label":"什么是确定性vs概率性？"},
+		{"id":"edge2","type":"arrow","fromNode":"node2","fromSide":"bottom","toNode":"node3","toSide":"top","label":"符号操作 vs 语义推理"},
+		{"id":"edge3","type":"arrow","fromNode":"node3","fromSide":"bottom","toNode":"node4","toSide":"top","label":"范式转变带来了什么新问题？"},
+		{"id":"edge4","type":"arrow","fromNode":"node4","fromSide":"bottom","toNode":"node5","toSide":"top","label":"如何应对新范式？"},
+		{"id":"edge5","type":"arrow","fromNode":"node5","fromSide":"bottom","toNode":"node6","toSide":"top","label":"范式转变对职业意味着什么？"},
+		{"id":"edge6","type":"arrow","fromNode":"node6","fromSide":"bottom","toNode":"node7","toSide":"top","label":"AI Agent有什么特殊性？"},
+		{"id":"edge7","type":"arrow","fromNode":"node7","fromSide":"bottom","toNode":"node8","toSide":"top","label":"程序员会变成什么？"},
+		{"id":"edge8","type":"arrow","fromNode":"node8","fromSide":"right","toNode":"node9","toSide":"left","label":"自然语言会成为编程语言吗？"},
+		{"id":"edge9","type":"arrow","fromNode":"node9","fromSide":"right","toNode":"node10","toSide":"top","label":"理论如何转化为行动？"}
+	]
+}
