@@ -1,0 +1,26 @@
+# Vibe Writing System - Git Ignore File
+# 个人配置文件，不应提交到公共仓库
+
+# Claude Code 本地配置
+.claude/settings.local.json
+.claude/plan/
+
+# Obsidian 工作区配置（个人）
+.obsidian/workspace.json
+.obsidian/app.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 编辑器配置
+.vscode/
+.idea/
+*.sublime-*
