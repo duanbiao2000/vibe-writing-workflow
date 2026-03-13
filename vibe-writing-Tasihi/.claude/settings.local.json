@@ -3,6 +3,7 @@
     "allow": [
       "WebSearch",
       "Bash(python -m json.tool)",
+      "Bash(grep -E \"\\(项目名称|创建时间|状态|已完成|进行中\\)\" 项目/*/项目信息.md)",
       "Bash(git push:*)",
       "Bash(git fetch:*)",
       "Bash(git checkout:*)",

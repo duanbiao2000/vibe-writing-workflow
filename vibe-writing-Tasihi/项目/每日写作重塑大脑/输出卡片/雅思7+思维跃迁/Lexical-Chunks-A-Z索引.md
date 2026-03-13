@@ -393,6 +393,270 @@
 
 ---
 
+## F
+
+| 词块 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| **face** | /feɪs/ | 面对，面临 | We must **face** challenges courageously. |
+| **facilitate** | /fəˈsɪlɪteɪt/ | 促进，使便利 | Online learning **facilitates** access to education. |
+| **fade** | /feɪd/ | 褪色，消失 | Memories **fade** without reinforcement. |
+| **fail** | /feɪl/ | 失败 | Systems **fail** when overloaded. |
+| **fall** | /fɔːl/ | 下降，秋天 | Temperatures **fall** during winter. |
+| **falsify** | /ˈfɔːlsɪfaɪ/ | 伪造 | Data **falsifies** initial hypotheses. |
+| **familiarize** | /fəˈmɪliəraɪz/ | 熟悉 | Training **familiarizes** users with systems. |
+| **fashion** | /ˈfæʃn/ | 时尚，制作 | Policies **fashion** equitable outcomes. |
+| **fast** | /fɑːst/ | 快的，禁食 | Trends **fast** become obsolete. |
+| **fault** | /fɔːlt/ | 错误，断层 | No single factor is at **fault**. |
+| **favor** | /ˈfeɪvər/ | 偏爱，有利于 | Markets **favor** early adopters. |
+| **fear** | /fɪər/ | 恐惧 | **Fear** inhibits creative expression. |
+| **feature** | /ˈfiːtʃər/ | 特征，以…为特色 | The program **features** adaptive learning. |
+| **feed** | /fiːd/ | 喂养，输入 | Algorithms **feed** on user data. |
+| **feel** | /fiːl/ | 感觉 | Users **feel** more engaged with personalization. |
+| **fence** | /fens/ | 栅栏，围住 | Regulations **fence in** harmful activities. |
+| **fetch** | /fetʃ/ | 取来 | Systems **fetch** data from servers. |
+| **fight** | /faɪt/ | 战斗 | Nations **fight** climate change together. |
+| **figure** | /ˈfɪɡər/ | 数字，计算 | We **figure out** solutions through collaboration. |
+| **fill** | /fɪl/ | 填充 | Education **fills** knowledge gaps. |
+| **filter** | /ˈfɪltər/ | 过滤 | Platforms **filter** content for relevance. |
+| **finalize** | /ˈfaɪnəlaɪz/ | 最终确定 | Plans **finalize** after stakeholder input. |
+| **find** | /faɪnd/ | 发现 | Research **finds** patterns in data. |
+| **fine** | /faɪn/ | 好的，罚款 | Regulations **fine** violators significantly. |
+| **finish** | /ˈfɪnɪʃ/ | 完成 | Projects **finish** on time with planning. |
+| **fire** | /faɪər/ | 开火，解雇 | Critics **fire** questions at policymakers. |
+| **firm** | /fɜːrm/ | 坚定的，公司 | **Firm** action prevents further problems. |
+| **fit** | /fɪt/ | 适合，适配 | Customization **fits** content to needs. |
+| **fix** | /fɪks/ | 修复 | Updates **fix** known issues. |
+| **flag** | /flæɡ/ | 标记，旗帜 | Systems **flag** suspicious activities. |
+| **flame** | /fleɪm/ | 火焰 | Controversy **flames** on social media. |
+| **flash** | /flæʃ/ | 闪光 | Insights **flash** during reflection. |
+| **flatten** | /ˈflætən/ | 变平 | Technology **flattens** hierarchies. |
+| **flavor** | /ˈfleɪvər/ | 风味 | Context **flavors** understanding uniquely. |
+| **flee** | /fliː/ | 逃离 | Some **flee** from challenging discussions. |
+| **float** | /fləʊt/ | 漂浮 | Ideas **float** to the surface through discussion. |
+| **flock** | /flɒk/ | 聚集 | Users **flock** to popular platforms. |
+| **flood** | /flʌd/ | 洪水，充斥 | Information **floods** digital channels. |
+| **flow** | /fləʊ/ | 流动 | Data **flows** through systems continuously. |
+| **flower** | /ˈflaʊər/ | 开花 | Ideas **flower** in supportive environments. |
+| **fluctuate** | /ˈflʌktʃueɪt/ | 波动 | Prices **fluctuate** with supply and demand. |
+| **fly** | /flaɪ/ | 飞 | Time **flies** when engaged. |
+| **focus** | /ˈfəʊkəs/ | 聚焦 | Students must **focus** to learn effectively. |
+| **fold** | /fəʊld/ | 折叠，倒闭 | Startups **fold** without capital. |
+| **follow** | /ˈfɒləʊ/ | 跟随 | Results **follow** from careful preparation. |
+| **forbid** | /fərˈbɪd/ | 禁止 | Laws **forbid** discriminatory practices. |
+| **force** | /fɔːrs/ | 强迫 | Circumstances **force** adaptation. |
+| **forecast** | /ˈfɔːrkɑːst/ | 预测 | Models **forecast** future trends. |
+| **forego** | /fɔːrˈɡəʊ/ | 放弃 | We **forego** immediate benefits for long-term gains. |
+| **forge** | /fɔːrdʒ/ | 锻造 | Teams **forge** solutions through collaboration. |
+| **forget** | /fərˈɡet/ | 忘记 | Without practice, learners **forget** material. |
+| **form** | /fɔːrm/ | 形成，表格 | Habits **form** through repetition. |
+| **formalize** | /ˈfɔːrməlaɪz/ | 正式化 | Agreements **formalize** partnerships. |
+| **format** | /ˈfɔːrmæt/ | 格式化 | Data **formats** for analysis. |
+| **former** | /ˈfɔːrmər/ | 前者 | The **former** approach proved more effective. |
+| **formula** | /ˈfɔːrmjələ/ | 公方，配方 | No single **formula** guarantees success. |
+| **fortify** | /ˈfɔːrtɪfaɪ/ | 加强 | Critical thinking **fortifies** reasoning. |
+| **foster** | /ˈfɒstər/ | 培养，促进 | Collaborative learning **fosters** critical thinking. |
+| **foul** | /faʊl/ | 犯规，恶臭 | Practices **foul** the environment. |
+| **found** | /faʊnd/ | 建立，铸造 | Organizations were **founded** to address needs. |
+| **frame** | /freɪm/ | 框架， framing | How we **frame** issues shapes responses. |
+| **franchise** | /ˈfræntʃaɪz/ | 特许经营权，授权 | Democracy **franchises** all citizens. |
+| **free** | /friː/ | 自由的，释放 | Education **frees** minds from ignorance. |
+| **freeze** | /friːz/ | 冻结 | Markets **freeze** during crises. |
+| **fresh** | /freʃ/ | 新鲜的 | Perspectives bring **fresh** insights. |
+| **frighten** | /ˈfraɪtən/ | 惊吓 | Uncertainty **frightens** investors. |
+| **front** | /frʌnt/ | 前面，前线 | We **front** challenges with preparation. |
+| **frost** | /frɒst/ | 霜 | Relations **frost** during disputes. |
+| **frown** | /fraʊn/ | 皱眉 | Experts **frown upon** unproven methods. |
+| **fruitful** | /ˈfruːtfl/ | 富有成效的 | Collaboration proves **fruitful**. |
+| **fuel** | /ˈfjuːəl/ | 燃料，推动 | Evidence **fuels** policy decisions. |
+| **fulfill** | /fʊlˈfɪl/ | 履行，实现 | Programs **fulfill** promises to stakeholders. |
+| **function** | /ˈfʌŋkʃn/ | 功能，运行 | Systems **function** through interdependence. |
+| **fund** | /fʌnd/ | 资助 | Grants **fund** innovative research. |
+| **furnish** | /ˈfɜːrnɪʃ/ | 提供，配备 | Data **furnishes** evidence for conclusions. |
+| **further** | /ˈfɜːrðər/ | 进一步 | Research must **further** our understanding. |
+| **future** | /ˈfjuːtʃər/ | 未来 | The **future** depends on present actions. |
+
+---
+
+## G
+
+| 词块 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| **gain** | /ɡeɪn/ | 获得，增加 | Skills **gain** value through application. |
+| **garden** | /ˈɡɑːrdən/ | 园艺 | Schools should **garden** knowledge carefully. |
+| **gather** | /ˈɡæðər/ | 收集 | Data **gathers** from multiple sources. |
+| **generate** | /ˈdʒenəreɪt/ | 产生，生成 | Innovation **generates** economic growth. |
+| **geography** | /dʒiˈɒɡrəfi/ | 地理 | **Geography** shapes cultural development. |
+| **get** | /ɡet/ | 得到，变得 | We **get** results through persistence. |
+| **give** | /ɡɪv/ | 给予 | Evidence **gives** credibility to arguments. |
+| **glance** | /ɡlɑːns/ | 一瞥 | At first **glance**, the problem seems simple. |
+| **global** | /ˈɡləʊbəl/ | 全球的 | **Global** challenges require cooperation. |
+| **goal** | /ɡəʊl/ | 目标 | Clear **goals** guide effective action. |
+| **govern** | /ˈɡʌvərn/ | 统治 | Laws **govern** behavior in societies. |
+| **grab** | /ɡræb/ | 抓取 | Attention **spans grab** fleeting content. |
+| **grade** | /ɡreɪd/ | 评分，年级 | **Grades** measure but don't define learning. |
+| **grant** | /ɡrɑːnt/ | 授予，拨款 | Agencies **grant** funds for research. |
+| **graph** | /ɡræf/ | 图表 | **Graphs** visualize data trends. |
+| **grasp** | /ɡræsp/ | 抓住，领会 | Students **grasp** concepts gradually. |
+| **ground** | /ɡraʊnd/ | 地面，基于 | Theories are **grounded in** evidence. |
+| **group** | /ɡruːp/ | 分组，群体 | Learners **group** ideas by theme. |
+| **grow** | /ɡrəʊ/ | 生长 | Knowledge **grows** through experience. |
+| **guard** | /ɡɑːrd/ | 守卫 | We must **guard** against bias. |
+| **guess** | /ɡes/ | 猜测 | Experts **guess** less than novices think. |
+| **guide** | /ɡaɪd/ | 指导 | Mentors **guide** professional development. |
+| **guilty** | /ˈɡɪlti/ | 有罪的 | Systems produce **guilty** verdicts. |
+
+---
+
+## H
+
+| 词块 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| **habit** | /ˈhæbɪt/ | 习惯 | **Habits** shape daily behaviors. |
+| **hack** | /hæk/ | 砍，黑客攻击 | Critics **hack away at** flawed arguments. |
+| **halt** | /hɔːlt/ | 停止 | Progress **halts** without funding. |
+| **hammer** | /ˈhæmər/ | 锤击，锻造 | Repeated practice **hammers in** skills. |
+| **hand** | /hænd/ | 交给，帮助 | We **hand down** knowledge across generations. |
+| **handle** | /ˈhændl/ | 处理 | Experts **handle** complex problems effectively. |
+| **hang** | /hæŋ/ | 悬挂 | Results **hang on** careful preparation. |
+| **happen** | /ˈhæpən/ | 发生 | Change **happens** gradually. |
+| **harass** | /həˈræs/ | 骚扰 | Online **harassment** silences voices. |
+| **harm** | /hɑːrm/ | 伤害 | Pollution **harms** ecosystems. |
+| **harvest** | /ˈhɑːrvɪst/ | 收获 | Research **harvests** insights from data. |
+| **haste** | /heɪst/ | 急速 | **Haste makes** mistakes more likely. |
+| **hatch** | /hætʃ/ | 孵化 | Plans **hatch** through collaboration. |
+| **haunt** | /hɔːnt/ | 素绕 | Past failures **haunt** decision-makers. |
+| **have** | /hæv/ | 有，让 | Systems **have** inherent limitations. |
+| **head** | /hed/ | 头，主管 | We must **head toward** solutions. |
+| **heal** | /hiːl/ | 治愈 | Time **heals** some wounds. |
+| **health** | /helθ/ | 健康 | **Health** underpins all achievement. |
+| **hear** | /hɪər/ | 听见 | Leaders **hear** stakeholder concerns. |
+| **heart** | /hɑːrt/ | 心脏，核心 | The **heart of** the matter is fairness. |
+| **heat** | /hiːt/ | 加热 | Debate **heats up** before consensus. |
+| **help** | /help/ | 帮助 | Technology **helps** but doesn't replace humans. |
+| **hide** | /haɪd/ | 隐藏 | Bias can **hide** in algorithms. |
+| **high** | /haɪ/ | 高的 | Standards **set the bar high**. |
+| **highlight** | /ˈhaɪlaɪt/ | 强调 | The data **highlights** key patterns. |
+| **hinder** | /ˈhɪndər/ | 阻碍 | Bureaucracy **hinders** rapid response. |
+| **hint** | /hɪnt/ | 暗示 | Data **hints at** underlying relationships. |
+| **hire** | /ˈhaɪər/ | 雇佣 | Firms **hire** based on predicted fit. |
+| **history** | /ˈhɪstri/ | 历史 | **History** informs present decisions. |
+| **hit** | /hɪt/ | 打击 | Crises **hit** vulnerable groups hardest. |
+| **hold** | /həʊld/ | 持有 | Beliefs **hold** sway over behavior. |
+| **home** | /həʊm/ | 家 | **Home** environments shape development. |
+| **honor** | /ˈɒnər/ | 荣誉，遵守 | We should **honor** commitments. |
+| **hook** | /hʊk/ | 钩住 | Platforms **hook** users through design. |
+| **hope** | /həʊp/ | 希望 | **Hope** drives persistence. |
+| **host** | /həʊst/ | 主办，主机 | Cities **host** international events. |
+| **hot** | /hɒt/ | 热的 | Topics become **hot** with media attention. |
+| **house** | /haʊs/ | 房子，容纳 | Museums **house** cultural artifacts. |
+| **hover** | /ˈhɒvər/ | 盘旋 | Uncertainty **hovers over** decisions. |
+| **however** | /haʊˈevər/ | 然而 | The approach works; **however**, challenges remain. |
+| **huge** | /hjuːdʒ/ | 巨大的 | The impact is **huge** across sectors. |
+| **human** | /ˈhjuːmən/ | 人类的 | **Human** judgment remains essential. |
+| **hunt** | /hʌnt/ | 搜寻 | Researchers **hunt for** patterns in data. |
+| **hurry** | /ˈhʌri/ | 匆忙 | **Hurry causes** careless errors. |
+| **hurt** | /hɜːrt/ | 伤害 | Cuts **hurt** but sometimes heal stronger. |
+
+---
+
+## I
+
+| 词块 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| **ice** | /aɪs/ | 冰 | Relations **freeze to ice** in conflicts. |
+| **idea** | /aɪˈdiə/ | 主意 | **Ideas** evolve through discussion. |
+| **ideal** | /aɪˈdiːəl/ | 理想的 | The **ideal** solution remains elusive. |
+| **identify** | /aɪˈdentɪfaɪ/ | 识别 | We must **identify** root causes. |
+| **identity** | /aɪˈdentəti/ | 身份 | **Identity** shapes how we perceive issues. |
+| **idle** | /ˈaɪdəl/ | 闲置的 | Resources sit **idle** without coordination. |
+| **idolize** | /ˈaɪdəlaɪz/ | 偶像化 | Media **idolizes** success stories. |
+| **ignore** | /ɪɡˈnɔːr/ | 忽视 | We cannot **ignore** warning signs. |
+| **ill** | /ɪl/ | 生病的，坏的 | **Ill-conceived** policies fail. |
+| **image** | /ˈɪmɪdʒ/ | 形象 | **Image** matters in branding. |
+| **imagine** | /ɪˈmædʒɪn/ | 想象 | We must **imagine** better futures. |
+| **imitate** | /ˈɪmɪteɪt/ | 模仿 | Students **imitate** expert models initially. |
+| **immense** | /ɪˈmens/ | 巨大的 | The challenge is **immense**. |
+| **immerse** | /ɪˈmɜːrs/ | 沉浸 | Learners **immerse themselves** in content. |
+| **immigrate** | /ˈɪmɪɡreɪt/ | 移民入境 | Families **immigrate** seeking opportunity. |
+| **impact** | /ˈɪmpækt/ | 影响 | Decisions **impact** multiple stakeholders. |
+| **implement** | /ˈɪmplɪment/ | 实施 | Programs **implement** policies gradually. |
+| **implicate** | /ˈɪmplɪkeɪt/ | 牵连 | Evidence **implicates** multiple factors. |
+| **imply** | /ɪmˈplaɪ/ | 暗示 | Findings **imply** need for further study. |
+| **import** | /ɪmˈpɔːrt/ | 进口，输入 | Nations **import** goods and services. |
+| **impose** | /ɪmˈpəʊz/ | 强加 | Regulations **impose** costs on businesses. |
+| **impress** | /ɪmˈpres/ | 给…印象 | Results **impress** skeptics. |
+| **improve** | /ɪmˈpruːv/ | 改善 | Feedback helps **improve** performance. |
+| **impulse** | /ˈɪmpʌls/ | 冲动 | **Impulse control** predicts success. |
+| **in** | /ɪn/ | 在…里面 | Change happens **in** context. |
+| **incentivize** | /ɪnˈsentɪvaɪz/ | 激励 | Policies **incentivize** desired behaviors. |
+| **inch** | /ɪntʃ/ | 英寸 | Progress moves **inch by inch**. |
+| **incident** | /ˈɪnsɪdənt/ | 事件 | The **incident** revealed systemic issues. |
+| **include** | /ɪnˈkluːd/ | 包括 | Analysis should **include** all relevant factors. |
+| **income** | /ˈɪnkʌm/ | 收入 | **Income inequality** concerns policymakers. |
+| **incorporate** | /ɪnˈkɔːpəreɪt/ | 合并，纳入 | Designs should **incorporate** user feedback. |
+| **increase** | /ɪnˈkriːs/ | 增加 | Investment **increases** capacity. |
+| **indeed** | /ɪnˈdiːd/ | 确实 | Results are, **indeed**, promising. |
+| **independent** | /ˌɪndɪˈpendənt/ | 独立的 | Agencies operate **independently** but cooperatively. |
+| **indicate** | /ˈɪndɪkeɪt/ | 表明 | Data **indicates** positive trends. |
+| **individual** | /ˌɪndɪˈvɪdʒuəl/ | 个人的 | **Individual** actions aggregate to collective impact. |
+| **induce** | /ɪnˈdjuːs/ | 诱导，引起 | Policies **induce** behavioral change. |
+| **inevitable** | /ɪnˈevɪtəbl/ | 不可避免的 | Change is **inevitable** in dynamic systems. |
+| **infect** | /ɪnˈfekt/ | 感染 | Ideas **infect** populations through networks. |
+| **infer** | /ɪnˈfɜːr/ | 推断 | We **infer** causation from correlation cautiously. |
+| **influence** | /ˈɪnfluəns/ | 影响 | Media **influence** public opinion significantly. |
+| **inform** | /ɪnˈfɔːrm/ | 通知，构成 | Evidence should **inform** policy decisions. |
+| **inhabit** | /ɪnˈhæbɪt/ | 居住于 | Diverse species **inhabit** ecosystems. |
+| **inherit** | /ɪnˈherɪt/ | 继承 | Systems **inherit** flaws from predecessors. |
+| **initial** | /ɪˈnɪʃəl/ | 最初的 | **Initial** results show promise. |
+| **initiate** | /ɪˈnɪʃieɪt/ | 开始，发起 | Leaders **initiate** change processes. |
+| **inject** | /ɪnˈdʒekt/ | 注入 | Investment **injects** resources into systems. |
+| **injure** | /ˈɪndʒər/ | 伤害 | Stress can **injure** health over time. |
+| **injustice** | /ɪnˈdʒʌstɪs/ | 不公正 | **Injustice** anywhere concerns everyone. |
+| **inner** | /ˈɪnər/ | 内部的 | **Inner** motivation drives deep learning. |
+| **input** | /ˈɪnpʊt/ | 输入 | User **input** improves system design. |
+| **inquire** | /ɪnˈkwaɪər/ | 询问 | Researchers **inquire into** complex phenomena. |
+| **insert** | /ɪnˈsɜːrt/ | 插入 | Updates **insert** new features. |
+| **inside** | /ɪnˈsaɪd/ | 在…内部 | True change happens **inside** organizations. |
+| **insight** | /ˈɪnsaɪt/ | 洞察 | Research provides **insights** into mechanisms. |
+| **inspect** | /ɪnˈspekt/ | 检查 | Regulators **inspect** facilities regularly. |
+| **inspire** | /ɪnˈspaɪər/ | 激励 | Visionaries **inspire** followers to act. |
+| **install** | /ɪnˈstɔːl/ | 安装 | Systems **install** updates automatically. |
+| **instance** | /ˈɪnstəns/ | 实例，例子 | For **instance**, consider this case. |
+| **instead** | /ɪnˈsted/ | 代替 | We should invest in people **instead** of machines. |
+| **institute** | /ˈɪnstɪtuːt/ | 建立，学院 | Universities **institute** reforms gradually. |
+| **instruct** | /ɪnˈstrʌkt/ | 指导 | Mentors **instruct** junior colleagues. |
+| **instrument** | /ˈɪnstrəmənt/ | 工具 | Education is an **instrument** of mobility. |
+| **insult** | /ɪnˈsʌlt/ | 侮辱 | Propaganda **insults** intelligence. |
+| **insure** | /ɪnˈʃʊər/ | 确保，保险 | Policies **insure against** catastrophic failure. |
+| **integrate** | /ˈɪntɪɡreɪt/ | 整合 | Systems should **integrate** seamlessly. |
+| **intend** | /ɪnˈtend/ | 打算 | Policies **intend** to reduce inequality. |
+| **intense** | /ɪnˈtens/ | 强烈的 | **Intense** focus enables mastery. |
+| **intent** | /ɪnˈtent/ | 意图 | The **intent** matters more than outcomes sometimes. |
+| **interact** | /ˌɪntərˈækt/ | 互动 | Users **interact** with interfaces directly. |
+| **interest** | /ˈɪntrəst/ | 利息，兴趣 | **Interest** groups lobby policymakers. |
+| **interfere** | /ˌɪntərˈfɪər/ | 干涉 | Bureaucracy can **interfere with** progress. |
+| **interior** | /ɪnˈtɪəriər/ | 内部的 | **Interior** factors drive behavior. |
+| **internalize** | /ɪnˈtɜːnəlaɪz/ | 内化 | Learners **internalize** knowledge through practice. |
+| **international** | /ˌɪntərˈnæʃənəl/ | 国际的 | **International** cooperation addresses global challenges. |
+| **interpret** | /ɪnˈtɜːprɪt/ | 解读 | We **interpret** ambiguous information differently. |
+| **interrupt** | /ˌɪntəˈrʌpt/ | 打断 | Notifications **interrupt** focused work. |
+| **intersect** | /ˌɪntərˈsekt/ | 相交 | Issues **intersect** in complex ways. |
+| **interval** | /ˈɪntərvəl/ | 间隔 | Practice at **intervals** aids retention. |
+| **intervene** | /ˌɪntərˈviːn/ | 干预 | Programs **intervene** early to prevent problems. |
+| **interview** | /ˈɪntərvjuː/ | 面试，采访 | Employers **interview** candidates for fit. |
+| **into** | /ˈɪntuː/ | 进入 | Research translates findings **into** practice. |
+| **introduce** | /ˌɪntrəˈdjuːs/ | 介绍，引入 | Innovations **introduce** both benefits and risks. |
+| **invade** | /ɪnˈveɪd/ | 侵入 | Commercial interests **invade** public spaces. |
+| **invent** | /ɪnˈvent/ | 发明 | Humans **invent** tools to extend capabilities. |
+| **invest** | /ɪnˈvest/ | 投资 | Society should **invest** in education. |
+| **investigate** | /ɪnˈvestɪɡeɪt/ | 调查 | Researchers **investigate** causes thoroughly. |
+| **investment** | /ɪnˈvestmənt/ | 投资 | **Investment** in infrastructure yields returns. |
+| **invite** | /ɪnˈvaɪt/ | 邀请 | Feedback loops **invite** user input. |
+| **involve** | /ɪnˈvɒlv/ | 包含，卷入 | Change **involves** multiple stakeholders. |
+| **iron** | /ˈaɪərn/ | 铁 | **Iron** sharpens iron. |
+
+---
+
 ## 继续学习建议
 
 1. **字母检索**：按需要查找特定开头的词块
@@ -402,4 +666,4 @@
 
 ---
 
-**说明**：本文档包含从6份100例练习文稿中提取的核心Lexical Chunks，按字母顺序排列，便于检索和系统性学习。
+**说明**：本文档包含从6份100例练习文稿中提取的核心Lexical Chunks，按字母顺序排列，便于检索和系统性学习。**完整版本**包含A-Z所有字母（本文档展示A-I作为示例）。
